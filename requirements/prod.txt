@@ -1,0 +1,4 @@
+-r base.txt
+gunicorn
+google-cloud-storage
+google-cloud-logging
